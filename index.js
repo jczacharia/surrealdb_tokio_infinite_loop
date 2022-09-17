@@ -1,4 +1,4 @@
-import Surreal from 'surrealdb.js';
+const Surreal = require('surrealdb.js');
 
 async function run() {
   const db = new Surreal();
