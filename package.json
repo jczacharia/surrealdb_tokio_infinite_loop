@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "surrealdb.js": "^0.3.1"
+    "surrealdb.js": "0.3.1"
   }
 }
